@@ -17,24 +17,13 @@ namespace CrewsD_MidTerm
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void calculateButton_Click(object sender, EventArgs e)
         {
 
             try
             {
 
-                //The following code calculates and displays total expenses. 
-                //The following code also determines whether or not a non-number was used.
+                // Calculates and displays total expenses and determines whether or not a non-number was used.
 
                 double rent;
 
@@ -76,8 +65,7 @@ namespace CrewsD_MidTerm
                 MessageBox.Show("Invalid data was entered!");
             }
 
-            //The following code calculates the over/under amounts for each bill
-            //and displays the amounts to the over/under box.
+            // Calculate the over/under amounts for each bill and displays the amounts to the over/under box.
 
             double rent1;
 
