@@ -1,0 +1,10 @@
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\bin\Debug\CrewsD_MidTerm.exe.config
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\bin\Debug\CrewsD_MidTerm.exe
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\bin\Debug\CrewsD_MidTerm.pdb
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.csprojAssemblyReference.cache
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.Form1.resources
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.Properties.Resources.resources
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.csproj.GenerateResource.cache
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.exe
+C:\Users\Damaris\Desktop\CrewsD_MidTerm\CrewsD_MidTerm\obj\Debug\CrewsD_MidTerm.pdb
